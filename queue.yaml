@@ -1,4 +1,31 @@
 queue:
- - name: test
+ - name: q1
+   rate: 500/s
+   bucket_size: 500
+ - name: q2
+   rate: 500/s
+   bucket_size: 500
+ - name: q3
+   rate: 500/s
+   bucket_size: 500
+ - name: q4
+   rate: 500/s
+   bucket_size: 500
+ - name: q5
+   rate: 500/s
+   bucket_size: 500
+ - name: q6
+   rate: 500/s
+   bucket_size: 500
+ - name: q7
+   rate: 500/s
+   bucket_size: 500
+ - name: q8
+   rate: 500/s
+   bucket_size: 500
+ - name: q9
+   rate: 500/s
+   bucket_size: 500
+ - name: q10
    rate: 500/s
    bucket_size: 500
